@@ -1,4 +1,3 @@
-<h1 align="center">Hi all 👋 </h1>
 <h1 align="center"> :raising_hand: I'm Kacper</h1>
 <h3 align="center">A passionate young data scientist from Poland welcomes you to his GitHub profile</h3>
 
