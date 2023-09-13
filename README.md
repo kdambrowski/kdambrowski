@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub_repo](https://github.com/kdambrowski?tab=repositories)
 
-- 👨‍💻 Sample of my programming skills [Youtube_demo](https://youtu.be/ffNtDCFeqZA)
+- 👨‍💻 Sample of my programming skills [Youtube_demo](https://www.youtube.com/watch?v=wHLC_9bBoXI)
 
 - 💬 Ask me about **Problem solving or Computer Vision methods**
 
